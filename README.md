@@ -9,4 +9,5 @@ En Processing, los datos provenientes de Arduino activan cambios en los elemento
 A través de esta interacción, el cartel reacciona visualmente a los transeúntes, creando una experiencia atractiva y dinámica dentro del espacio urbano.
 
 ![image](https://github.com/user-attachments/assets/f46c3268-57b1-45ad-87dd-8b476544605b)
-Mockup paradero del SITP, simulación de poster reactivo.
+
+_Mockup paradero del SITP, simulación de poster reactivo._
