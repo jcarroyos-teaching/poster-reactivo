@@ -11,3 +11,9 @@ A través de esta interacción, el cartel reacciona visualmente a los transeúnt
 ![image](https://github.com/user-attachments/assets/f46c3268-57b1-45ad-87dd-8b476544605b)
 
 _Mockup paradero del SITP, simulación de poster reactivo._
+
+
+[Ver video del circuito funcionando](https://github.com/user-attachments/assets/1580d9d3-4244-496e-99b9-0cd362ebed5a)
+
+
+
